@@ -6,3 +6,4 @@ import pandas as pd
 """
 img = cv2.imread("cat.jpeg")
 st.image(img)
+st.text("Nguyễn Hoàng Long")
